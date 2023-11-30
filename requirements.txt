@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+ipywidgets
+gensim
+transformers
+torch
+voila
+chardet
